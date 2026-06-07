@@ -1,0 +1,39 @@
+📌 Prompt: VBA Macro to Send Invoice PDF in WhatsApp Group
+I am working on automating WhatsApp messaging using VBA macros. Currently, I am able to successfully send text messages to a WhatsApp group using VBA automation, but I am facing an issue when trying to send an invoice PDF file.
+✅ Current Situation:
+
+I can send text messages to a WhatsApp group using VBA.
+The automation works fine for messages.
+However, I am unable to attach or send a PDF file (invoice) to the group.
+
+❓ My Requirement:
+
+Is it possible to send a PDF file to a WhatsApp group (not to an individual contact) using VBA macros?
+If direct PDF sharing is not possible via VBA:
+
+Are there any workarounds?
+Can I convert the invoice PDF into an image format (JPG/PNG) and send it instead?
+Can I send the invoice image along with text in the same message?
+
+
+
+🔄 Alternative Needs:
+
+If PDF sending is restricted:
+
+I am open to using tools/APIs like WhatsApp Web automation, Power Automate, or third-party services.
+Suggestions for reliable approaches to automate sending invoice files (PDF or image) to a WhatsApp group would be appreciated.
+
+
+
+⚙️ Environment:
+
+Using Excel VBA macros
+Automating WhatsApp Web (browser-based)
+
+🙏 Help Needed:
+Please suggest:
+
+Whether sending PDFs to a group via VBA is possible
+Any alternative approaches (image conversion or APIs)
+Sample logic/code if available
